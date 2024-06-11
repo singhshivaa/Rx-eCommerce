@@ -117,7 +117,7 @@ Welcome to Rx eCommerce, your ultimate destination for stylish and affordable fo
    - **Log Out:**
      - Log out of your account securely.
 
-     ![Log Out]![](https://github.com/singhshivaa/rx/assets/160582204/cc5dab2f-787a-4877-834c-1e4b2d1022b5)
+     ![](https://github.com/singhshivaa/rx/assets/160582204/cc5dab2f-787a-4877-834c-1e4b2d1022b5)
 
 
 ---
