@@ -66,7 +66,8 @@ Welcome to Rx eCommerce, your ultimate destination for stylish and affordable fo
    - View and manage your account details.
    - Update your personal information and preferences.
 
-   ![Profile](https://github.com/singhshivaa/rx/assets/160582204/49a16038-c01c-4577-b718-68d5360f61e3)
+   ![Profile]![](https://github.com/singhshivaa/rx/assets/160582204/e94e8e36-923d-4c7f-aabf-db3e349d5473)
+
 
 
 ## Profile Section Dropdown Menu
