@@ -58,7 +58,11 @@ Welcome to Rx eCommerce, your ultimate destination for stylish and affordable fo
    - Get in touch with us for any inquiries or support.
    - Fill out the contact form or use the provided contact details.
 
-   ![Contact Us](https://github.com/singhshivaa/rx/assets/160582204/407ec8a5-afda-40d3-a83c-54bf41b45439)
+   ![Contact Us]![](https://github.com/singhshivaa/rx/assets/160582204/05da93f7-bbee-4759-8a41-595420b808af)
+   ![](https://github.com/singhshivaa/rx/assets/160582204/b0802788-f0da-4c25-bffe-5280c77008b2)
+   ![](https://github.com/singhshivaa/rx/assets/160582204/d331499a-93c6-483f-9bae-bef1b4c26de2)
+
+
 
 
 ### Profile Page
