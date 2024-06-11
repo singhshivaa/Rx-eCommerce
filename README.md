@@ -1,4 +1,4 @@
-![Screenshot (3281)](https://github.com/singhshivaa/rx/assets/160582204/38df99d9-af08-425e-bcd4-6c0b31646d79)# Rx eCommerce Website
+# Rx eCommerce Website
 
 Welcome to Rx eCommerce, your ultimate destination for stylish and affordable footwear. Below is a step-by-step guide to help you understand how our website works.
 
