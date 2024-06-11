@@ -15,7 +15,7 @@ Welcome to Rx eCommerce, your ultimate destination for stylish and affordable fo
 2. **Redirect to Login:**
    - If you already have an account, the system will notify you and redirect you to the login page.
 
-   ![Login](https://github.com/singhshivaa/rx/assets/160582204/402a335c-99f6-4d05-b566-24e518e2a7ab)
+   ![Login](https://github.com/singhshivaa/rx/assets/160582204/402a335c-99f6-4d05-b566-24e518e2a7ab) 
 
 
 ### Existing User Login
