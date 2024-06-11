@@ -1,0 +1,35 @@
+.filter-section {
+    background-color: #f8f9fa83;
+}
+
+.category-section,
+.price-section,
+.colors-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.filter-section h4 {
+    margin: 2px 0;
+    padding: 2px;
+    color: #3381DA;
+}
+
+.my-flx {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.input-search {
+    border: 1px solid #3381DA;
+    border-radius: 4px;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.input-search::placeholder {
+    text-align: center;
+    color: #3381DA;
+    /* font-weight: lighter; */
+}
