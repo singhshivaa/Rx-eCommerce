@@ -1,4 +1,4 @@
-# Rx eCommerce Website
+![Screenshot (3281)](https://github.com/singhshivaa/rx/assets/160582204/38df99d9-af08-425e-bcd4-6c0b31646d79)# Rx eCommerce Website
 
 Welcome to Rx eCommerce, your ultimate destination for stylish and affordable footwear. Below is a step-by-step guide to help you understand how our website works.
 
@@ -9,19 +9,22 @@ Welcome to Rx eCommerce, your ultimate destination for stylish and affordable fo
    - If you're a new user, visit the registration page.
    - Fill in the required details to create a new account.
 
-   ![Register](image-link-here)
+   ![Register](https://github.com/singhshivaa/rx/assets/160582204/a2ca6549-69b9-4991-99ba-da298937149f)
+     )
 
 2. **Redirect to Login:**
    - If you already have an account, the system will notify you and redirect you to the login page.
 
-   ![Login](image-link-here)
+   ![Login](https://github.com/singhshivaa/rx/assets/160582204/402a335c-99f6-4d05-b566-24e518e2a7ab)
+
 
 ### Existing User Login
 3. **Login:**
    - Enter your credentials to log in.
    - Once logged in, you will be redirected to the Home page.
 
-   ![Home](image-link-here)
+   ![Home](https://github.com/singhshivaa/rx/assets/160582204/11d0c75b-74c7-476b-abbe-c6c9cf4286fd)
+
 
 ## Exploring the Website
 
@@ -30,14 +33,17 @@ Welcome to Rx eCommerce, your ultimate destination for stylish and affordable fo
    - The Home page showcases featured products, promotions, and categories.
    - Explore all features such as image cards, filter sections, and links to other pages in the navbar.
 
-   ![Home Page](image-link-here)
+   ![Home Page](https://github.com/singhshivaa/rx/assets/160582204/86508f7e-4463-4781-8cbe-f038151e9cfa)
+
+
 
 ### Products Page
 5. **Products:**
    - Browse our diverse range of products.
    - Use filters to narrow down your search by category, price range, and color.
 
-   ![Products](image-link-here)
+   ![Products](https://github.com/singhshivaa/rx/assets/160582204/f04c4360-5760-450a-a6c2-aeaa814788ac)
+
 
 ### About Us Page
 6. **About Us:**
@@ -51,56 +57,68 @@ Welcome to Rx eCommerce, your ultimate destination for stylish and affordable fo
    - Get in touch with us for any inquiries or support.
    - Fill out the contact form or use the provided contact details.
 
-   ![Contact Us](image-link-here)
+   ![Contact Us](https://github.com/singhshivaa/rx/assets/160582204/407ec8a5-afda-40d3-a83c-54bf41b45439)
+
 
 ### Profile Page
 8. **Profile:**
    - View and manage your account details.
    - Update your personal information and preferences.
 
-   ![Profile](image-link-here)
+   ![Profile](https://github.com/singhshivaa/rx/assets/160582204/49a16038-c01c-4577-b718-68d5360f61e3)
+
 
 ## Profile Section Dropdown Menu
 
 ### Dropdown Options
 9. **Profile Section Options:**
    - The Profile section contains a dropdown list with several options:
+     ![](https://github.com/singhshivaa/rx/assets/160582204/8901a4db-c3e3-4172-9dda-ba5b740cdac1)
 
    - **Trending 🔥:**
      - Explore the most popular and trending footwear.
 
-     ![Trending](image-link-here)
+     ![Trending](https://github.com/singhshivaa/rx/assets/160582204/84b9a5d6-b9d1-44d8-a3a3-582a8ca61846)  
+     ![Explore Related Items you might enjoy : ](https://github.com/singhshivaa/rx/assets/160582204/d240f64c-86b1-407a-b093-2c83e85920af)
+
 
    - **Men's Footwear:**
      - Browse our collection of men's shoes.
 
-     ![Men's Footwear](image-link-here)
+     ![Men's Footwear](https://github.com/singhshivaa/rx/assets/160582204/946b25ac-d767-4f4d-9e4e-6f8092eaa728)
+
 
    - **Women's Footwear:**
      - Browse our collection of women's shoes.
 
-     ![Women's Footwear](image-link-here)
+     ![Women's Footwear](https://github.com/singhshivaa/rx/assets/160582204/cf40a15f-bd70-4a13-858d-b7f6548a7704)
+
 
    - **Profile:**
      - Access and edit your profile information.
+       ![](https://github.com/singhshivaa/rx/assets/160582204/77d1f922-bc84-42b8-81c1-91c9960bac9b)
+       ![](https://github.com/singhshivaa/rx/assets/160582204/1732d98a-aa62-4a14-928f-4cd46614ff2c)
 
-     ![Profile](image-link-here)
 
    - **Wish List 💙:**
      - View and manage your wish list of favorite products.
-
-     ![Wish List](image-link-here)
+     
+     - ![Wish List](https://github.com/singhshivaa/rx/assets/160582204/0a4b838f-6075-4f64-9c47-596cafd206cc)
+       
 
    - **My Cart:**
      - Review and manage the items in your shopping cart.
      - Proceed to checkout and make purchases.
 
-     ![My Cart](image-link-here)
+     ![My Cart]![](https://github.com/singhshivaa/rx/assets/160582204/fd747d46-928d-4b57-99fa-8f6c6b0c3c79)
+     ![item removed using CRUD Operation](https://github.com/singhshivaa/rx/assets/160582204/16ffb2ef-b2c0-4a2b-a65f-e85f59ed0330)
+
 
    - **Log Out:**
      - Log out of your account securely.
 
-     ![Log Out](image-link-here)
+     ![Log Out]![](https://github.com/singhshivaa/rx/assets/160582204/cc5dab2f-787a-4877-834c-1e4b2d1022b5)
+
 
 ---
 
