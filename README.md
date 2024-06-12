@@ -23,8 +23,6 @@ Welcome to Rx eCommerce, your ultimate destination for stylish and affordable fo
    - Enter your credentials to log in.
    - Once logged in, you will be redirected to the Home page.
 
-   ![Home](https://github.com/singhshivaa/rx/assets/160582204/11d0c75b-74c7-476b-abbe-c6c9cf4286fd)
-
 
 ## Exploring the Website
 
