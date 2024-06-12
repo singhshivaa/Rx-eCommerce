@@ -48,7 +48,8 @@ Welcome to Rx eCommerce, your ultimate destination for stylish and affordable fo
    - Learn more about Rx eCommerce, our mission, and our values.
    - Discover the story behind our brand and our commitment to quality and affordability.
 
-   ![About Us] [](https://github.com/singhshivaa/rx/assets/160582204/ef529ed0-75ce-4b0b-9ecd-2ed34a5a1ebd)
+   ![About Us] ![](https://github.com/singhshivaa/Rx-eCommerce/assets/160582204/1c9dbd16-e137-47d5-aae0-a0283bdfacaf)
+
 
 
 ### Contact Us Page
